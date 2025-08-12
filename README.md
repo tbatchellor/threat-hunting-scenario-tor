@@ -1,9 +1,11 @@
 # threat-hunting-scenario-tor
 # Tom Batchellor
 
-![image alt](https://raw.githubusercontent.com/tbatchellor/threat-hunting-scenario-tor/refs/heads/main/tor-logo.webp)
+![image alt]()
 
 <img width="400" src="https://github.com/user-attachments/assets/44bac428-01bb-4fe9-9d85-96cba7698bee" alt="Tor Logo with the onion and a crosshair on it"/>
+
+<img width="400" src="https://raw.githubusercontent.com/tbatchellor/threat-hunting-scenario-tor/refs/heads/main/tor-logo.webp alt="Tor Logo with the onion and a crosshair on it"/>
 
 # Threat Hunt Report: Unauthorized TOR Usage
 - [Scenario Creation](https://github.com/joshmadakor0/threat-hunting-scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)
