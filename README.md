@@ -1,5 +1,5 @@
 # threat-hunting-scenario-tor
-# Tom Batchellor
+** Tom Batchellor
 
 ![image alt](https://github.com/tbatchellor/threat-hunting-scenario-tor/blob/main/tor-logo.jpg)
 
