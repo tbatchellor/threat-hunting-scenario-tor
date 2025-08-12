@@ -1,8 +1,6 @@
 # threat-hunting-scenario-tor
 # Tom Batchellor
 
-# <img width="400" src="https://github.com/user-attachments/assets/44bac428-01bb-4fe9-9d85-96cba7698bee" alt="Tor Logo with the onion and a crosshair on it"/>
-
 ![image alt](https://github.com/tbatchellor/threat-hunting-scenario-tor/blob/main/tor-logo.jpg)
 
 # Threat Hunt Report: Unauthorized TOR Usage
