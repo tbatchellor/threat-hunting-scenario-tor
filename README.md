@@ -1,11 +1,11 @@
 # threat-hunting-scenario-tor
-** Tom Batchellor
 
 ![image alt](https://github.com/tbatchellor/threat-hunting-scenario-tor/blob/main/tor-logo.jpg)
 
 # Threat Hunt Report: Unauthorized TOR Usage
 - [Scenario Creation](https://github.com/joshmadakor0/threat-hunting-scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)
-
+- [Scenario Creation](https://github.com/tbatchellor/threat-hunting-scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)
+- 
 ## Platforms and Languages Leveraged
 - Windows 10 Virtual Machines (Microsoft Azure)
 - EDR Platform: Microsoft Defender for Endpoint
